@@ -27,7 +27,3 @@ This application is built entirely in **Java** and utilizes several key OOP prin
 ### Prerequisites
 * Java Development Kit (JDK) 8 or higher installed on your machine.
 
-### Steps
-1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)

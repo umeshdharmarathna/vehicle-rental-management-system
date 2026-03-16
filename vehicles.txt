@@ -1,0 +1,2 @@
+Car,1234,civic,civic,3.0,true,3
+TotalIncome,0.0

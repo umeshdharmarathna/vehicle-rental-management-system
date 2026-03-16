@@ -22,8 +22,5 @@ This application is built entirely in **Java** and utilizes several key OOP prin
 * **Polymorphism**: The system handles different vehicle types uniformly through the `Vehicle` reference type, overriding methods to provide specific implementations for cost calculation and data formatting.
 * **File Handling**: Uses `java.io.File`, `java.util.Scanner`, and `java.io.PrintWriter` to ensure data remains persistent between application restarts.
 
-## 🛠️ How to Run
 
-### Prerequisites
-* Java Development Kit (JDK) 8 or higher installed on your machine.
 
